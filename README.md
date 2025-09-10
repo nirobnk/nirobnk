@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Buddhika Niroshan  
 
-<!--
-**nirobnk/nirobnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Engineering student @ University of Ruhuna, Sri Lanka  
+💻 Passionate about Software Engineering, Machine Learning, and Scalable System Design  
+🚀 Currently building: **Calculator App (Spring Boot + React + Docker + CI/CD)**  
+🌱 Learning: AI/ML, Cloud Deployments, and CI/CD pipelines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📂 Featured Projects  
+🌟 [Calculator App](https://github.com/your-username/calculator) — Full-stack app using Spring Boot + React + Docker + GitHub Actions  
+🤖 [ML Playground](https://github.com/your-username/ml-playground) — Simple experiments in Machine Learning  
+📱 [Todo App](https://github.com/your-username/todo-app) — CRUD web app with React + Firebase  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)  
+
+---
+
+## 📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirobnk&theme=react-dark)  
+
+---
+
+## 📫 Connect with me  
+- 🌐 Portfolio: [niroshan.me](https://niroshan.me)  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- ✉️ Email: niroshan777@gmail.com  
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)

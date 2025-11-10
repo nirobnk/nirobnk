@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Buddhika Niroshan  
 
 🎓 3rd-year Computer Engineering student @ University of Ruhuna, Sri Lanka  
-💻 Passionate about Software Engineering, Machine Learning, and Scalable System Design  
-🚀 Currently building: **Calculator App (Spring Boot + React + Docker + CI/CD)**  
+💻 Passionate about Software Engineering, Machine Learning, and Scalable System Design   
 🌱 Learning: AI/ML, Cloud Deployments, and CI/CD pipelines  
 
 ---
